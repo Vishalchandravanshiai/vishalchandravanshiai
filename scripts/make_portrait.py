@@ -50,7 +50,7 @@ FG_DARK = "#c9d1d9"        # and its dark-mode step
 CHAR_W = 7.74              # 0.600 em at FONT_SIZE — keep these in step
 FONT_SIZE = 12.9
 LINE_H = 15
-ROW_DELAY = 0.09           # per-row stagger, seconds
+ROW_DELAY = 0.02           # per-row stagger, seconds
 FAMILY = "ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
 
 
