@@ -17,10 +17,10 @@ Building intelligent systems • experimenting with AI • turning ideas into wo
 <a href="https://github.com/Vishalchandravanshiai">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:vishalchandravanshijarh@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="www.linkedin.com/in/vishal-chandravanshii">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -64,7 +64,7 @@ Currently learning, building, breaking, debugging and rebuilding.
 
 ### 🐍 Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=python,,java," />
 
 <br><br>
 
@@ -76,7 +76,7 @@ Currently learning, building, breaking, debugging and rebuilding.
 
 ### ⚙️ Development
 
-<img src="https://skillicons.dev/icons?i=fastapi,gradio,nodejs,react" />
+<img src="https://skillicons.dev/icons?i=fastapi,gradio,react" />
 
 <br><br>
 
