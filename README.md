@@ -17,7 +17,7 @@ Building intelligent systems • experimenting with AI • turning ideas into wo
 <a href="https://github.com/Vishalchandravanshiai">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:vishalchandravanshijarh@gmail.com">
+<a href="vishalchandravanshijarh@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="www.linkedin.com/in/vishal-chandravanshii">
