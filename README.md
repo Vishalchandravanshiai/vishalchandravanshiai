@@ -159,7 +159,7 @@ with the computer and execute tasks.
 
 <br>
 
-<a href="https://github.com/Vishalchandravanshiai">
+<a href="https://github.com/Vishalchandravanshiai/AURA-AI-Unified-Response-Assistant">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
