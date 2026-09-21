@@ -112,7 +112,7 @@ Deep-learning based chest X-ray analysis system.
 
 <br>
 
-<a href="https://github.com/Vishalchandravanshiai">
+<a href="https://github.com/Vishalchandravanshiai/PneumoVision-AI">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
