@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="./ascii.svg" width="520" alt="Vishal Chandravanshi"/>
@@ -161,11 +162,38 @@ Estimates relative depth/height from a single image and turns it into an interac
 <a href="https://github.com/Vishalchandravanshiai/DEPTHWIZARD-SIH2026-TENSOR-TITANS">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github&logoColor=white" alt="View DepthWizard"/>
 </a>
+<a href="https://huggingface.co/spaces/vishalchandravanshii/DepthWizard-SIH2026">
+<img src="https://img.shields.io/badge/LIVE_DEMO-111827?style=for-the-badge&logo=huggingface&logoColor=white" alt="DepthWizard live demo"/>
+</a>
 
 </td>
 
 </tr>
 <tr>
+
+<td width="50%" align="center">
+
+## 🌙 Lunar Image Registration
+
+**Chandrayaan-2 Image Correspondence** · *Prototype*
+
+Aligns a moving image to a reference image by finding match points despite illumination, viewpoint and scale changes. Built for Smart India Hackathon 2026 (ISRO/SAC problem statement).
+
+**Built with**
+
+`OpenCV` `SIFT / ORB / AKAZE`  
+`Homography` `Gradio`
+
+<br>
+
+<a href="https://github.com/Vishalchandravanshiai/-LUNAR-IMAGE-Registration-SIH2026-TENSORTITANS">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Lunar Image Registration"/>
+</a>
+<a href="https://huggingface.co/spaces/vishalchandravanshii/lunar-image-registration">
+<img src="https://img.shields.io/badge/LIVE_DEMO-111827?style=for-the-badge&logo=huggingface&logoColor=white" alt="Lunar Image Registration live demo"/>
+</a>
+
+</td>
 
 <td width="50%" align="center">
 
@@ -185,10 +213,16 @@ CNN-based image classification of potato leaf diseases, with a simple Gradio int
 <a href="https://github.com/Vishalchandravanshiai/potato_disease_analyzer">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Potato Disease Analyzer"/>
 </a>
+<a href="https://huggingface.co/spaces/vishalchandravanshii/potato_disease_analyzer">
+<img src="https://img.shields.io/badge/LIVE_DEMO-111827?style=for-the-badge&logo=huggingface&logoColor=white" alt="Potato Disease Analyzer live demo"/>
+</a>
 
 </td>
 
-<td width="50%" align="center">
+</tr>
+<tr>
+
+<td colspan="2" align="center">
 
 ## 🤖 AURA
 
@@ -198,8 +232,7 @@ Currently building a voice-controlled assistant that combines cloud reasoning wi
 
 **Architecture**
 
-`Local LLM` `Gemini API`  
-`Speech AI` `Automation`
+`Local LLM` `Gemini API` `Speech AI` `Automation`
 
 <br>
 
@@ -225,7 +258,7 @@ Currently building a voice-controlled assistant that combines cloud reasoning wi
 
 **Hackathons**
 
-- **Smart India Hackathon (SIH)** — worked on DepthWizard, a single-view height estimation and 3D flythrough project
+- **Smart India Hackathon (SIH)** — worked on DepthWizard (single-view height estimation and 3D flythrough) and a lunar image registration prototype
 - **CODE: VITAL Hackathon** — AI/ML project development with PneumoVision AI
 
 ---
